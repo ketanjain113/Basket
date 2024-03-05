@@ -1,5 +1,7 @@
 # Basket - Your Personal Shopping List Manager
 
+![Icon](Save.png)
+
 Welcome to Basket, your go-to web app for effortlessly managing your shopping list! Say goodbye to forgotten items and tedious paper lists. With Basket, creating and managing your shopping list is a breeze.
 
 ## Features
@@ -15,6 +17,10 @@ Each item in your shopping list is interactive. Tap on an item to remove it. Kee
 
 ### 4. **Sync Across Devices**
 Access your shopping list anytime, anywhere. Basket syncs seamlessly across devices, ensuring you have your list at your fingertips whether you're at home, in the store, or on the go.
+
+## Screenshots
+
+![Screenshot](Preview.png)
 
 ## Getting Started
 
