@@ -1,6 +1,6 @@
 # Basket - Your Personal Shopping List Manager
 
-![Icon](Basket.png)
+![Icon](Cart.png)
 
 Welcome to Basket, your go-to web app for effortlessly managing your shopping list! Say goodbye to forgotten items and tedious paper lists. With Basket, creating and managing your shopping list is a breeze.
 
