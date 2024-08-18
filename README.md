@@ -35,9 +35,9 @@ To get started with Basket, simply visit [basket]([https://www.basket-app.com](h
    - Press or click the "Basket" button.
 
 2. **Managing List:**
-   - Tap to remove item from the list.
+   - Tap to remove items from the list.
 
 3. **Syncing Across Devices:**
-   - Log in with your account on multiple devices to sync your shopping list.
+   - Access your Shopping list across the devices.
 
 ### Happy shopping with Basket! 🛒🎉
