@@ -19,7 +19,7 @@ Each item in your shopping list is interactive. Tap on an item to remove it. Kee
 Access your shopping list anytime, anywhere. Basket syncs seamlessly across devices, ensuring you have your list at your fingertips whether you're at home, in the store, or on the go.
 
 ## Screenshots
-<img src="Screenshot.jpg" alt="Description" width="900" height="300">
+<img src="Screenshot.jpg" alt="Description" width="300" height="900">
 
 ## Getting Started
 
